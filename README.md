@@ -1,6 +1,6 @@
 # Hi, I'm Corentin! 👋
 
-I am a student at EPFL, ....
+I am a student at EPFL. This page is under construction 🚧👷‍♂️
 <!--
 ## 🚀 About Me
 
