@@ -1,7 +1,7 @@
 # Hi, I'm Corentin! 👋
 
 I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interested in deep learning, LLMs, multimodal learning and scientific computing / HPC.
-
+<!---
 ## 🚀 About Me
 - 🎓 MSc Computational Science and Engineering @ EPFL (completed July 2026)
 - 🔭 Currently open to opportunities in [ex: ML/AI engineering, research, data science...]
@@ -36,3 +36,4 @@ Implemented the Strong RRQR algorithm, including a randomized sketching-based va
 
 ## 📬 Get in Touch
 Open to opportunities in [placeholder — ex: ML engineering, applied research...]. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or email.
+-->
