@@ -13,7 +13,7 @@ I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interes
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
-## 📌 Featured Projects
+
 
 ### [Bridging Remote Sensing with Natural Language via Flow Matching](lien-vers-le-repo)
 Designed and evaluated a multimodal alignment framework between vision and language embeddings using Flow Matching, with extensive experiments across LLM sizes, pooling strategies and prompting protocols for Vision-Language QA.
@@ -23,9 +23,7 @@ Designed and evaluated a multimodal alignment framework between vision and langu
 Trained LSTM/GRU models on time-series data from TCV tokamak experiments to classify plasma confinement modes, and applied conformal prediction to quantify model uncertainty.
 `Python` `Time Series` `Conformal Prediction` — [🔗 Demo](lien-si-existe)
 
-### [Improving Explainability of Sexism Detection in Social Media Text](lien-vers-le-repo)
-Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improving both classification performance and token-level explainability metrics over the baseline.
-`Python` `NLP` `Explainability` — [🔗 Demo](lien-si-existe)
+
 
 ### [Implementing Strong RRQR in Python](lien-vers-le-repo)
 Implemented the Strong RRQR algorithm, including a randomized sketching-based variant, and evaluated its numerical stability on challenging matrices.
@@ -37,3 +35,7 @@ Implemented the Strong RRQR algorithm, including a randomized sketching-based va
 ## 📬 Get in Touch
 Open to opportunities in [placeholder — ex: ML engineering, applied research...]. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or email.
 -->
+## Featured Projects
+### [Improving Explainability of Sexism Detection in Social Media Text](https://github.com/viols-code/DeepLearningProject)
+Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improving both classification performance and token-level explainability metrics over the baseline.
+`Python` `NLP` `Explainability` 
