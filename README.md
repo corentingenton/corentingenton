@@ -1,14 +1,41 @@
-## Hi, I'm Corentin! 👋
 
-🎓 Education
-📚 M. Sc. in Computational Science and Engineering @ EPFL
-👩‍🎓 B.Sc. in Physics @ EPFL
+# Hi, I'm Corentin! 👋
+
+MSc graduate in Computational Science and Engineering from EPFL, interested in Machine Learning, Deep Learning, and AI research, particularly in LLMs and multimodal learning.
+
+## 🎓 Education
+
+- **MSc in Computational Science and Engineering** — EPFL
+- **BSc in Physics** — EPFL
 
 ---
-### Projects
-#### [Improving Explainability of Sexism Detection in Social Media Text](https://github.com/viols-code/DeepLearningProject)
-Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improving both classification performance and token-level explainability metrics over the baseline.
-`Python` `NLP` `Explainability` 
+
+## 🚀 Projects
+
+### Vision-Language Alignment for Remote Sensing VQA
+
+Master's thesis project exploring the alignment of remote sensing image embeddings with natural language representations using flow matching, with the goal of improving visual question answering.
+
+`Python` `PyTorch` `LLMs` `Multimodal Learning` `Flow Matching`
+
+### [Improving Explainability of Sexism Detection in Social Media Text](https://github.com/viols-code/DeepLearningProject)
+
+Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improving classification performance and token-level explainability metrics over the baseline.
+
+`Python` `PyTorch` `NLP` `Explainability`
+
+---
+
+## 🛠️ Technologies
+
+`Python` `PyTorch` `Hugging Face` `C++` `Git` `Docker`
+
+---
+
+## 📬 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or reach me at **corentin.genton@ik.me**.
+
 <!---
 I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interested in deep learning, LLMs, multimodal learning and scientific computing / HPC.
 
