@@ -12,7 +12,7 @@ MSc graduate in Computational Science and Engineering from EPFL, interested in M
 
 ### 🚀 Projects
 
-#### Vision-Language Alignment for Remote Sensing VQA
+#### Bridging Remote Sensing with Natural Language via Flow Matching
 *Code coming soon.*
 
 Master's thesis project exploring the alignment of remote sensing image embeddings with natural language representations using flow matching, with the goal of improving visual question answering.
@@ -25,14 +25,14 @@ Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improvi
 
 `Python` `PyTorch` `NLP` `Explainability`
 
-### Enhancing QCE H-mode Regime Access Understanding in TCV Plasmas
+#### Enhancing QCE H-mode Regime Access Understanding in TCV Plasmas
 *Code coming soon.*
 
 Trained LSTM/GRU models on time-series data from TCV tokamak experiments to classify plasma confinement modes, and applied conformal prediction to quantify model uncertainty.
 
 `Python` `Time Series` `Conformal Prediction`
 
-### Implementing Strong RRQR in Python
+#### Implementing Strong RRQR in Python
 *Code coming soon.*
 
 Implemented the Strong RRQR algorithm, including a randomized sketching-based variant, and evaluated its numerical stability on challenging matrices.
