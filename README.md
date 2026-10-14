@@ -13,6 +13,7 @@ MSc graduate in Computational Science and Engineering from EPFL, interested in M
 ### 🚀 Projects
 
 #### Vision-Language Alignment for Remote Sensing VQA
+*Code coming soon.*
 
 Master's thesis project exploring the alignment of remote sensing image embeddings with natural language representations using flow matching, with the goal of improving visual question answering.
 
@@ -24,10 +25,17 @@ Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improvi
 
 `Python` `PyTorch` `NLP` `Explainability`
 
----
+### Enhancing QCE H-mode Regime Access Understanding in TCV Plasmas
+*Code coming soon.*
 
-### 🛠️ Technologies
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
+Trained LSTM/GRU models on time-series data from TCV tokamak experiments to classify plasma confinement modes, and applied conformal prediction to quantify model uncertainty.
+`Python` `Time Series` `Conformal Prediction`
+
+### Implementing Strong RRQR in Python
+*Code coming soon.*
+
+Implemented the Strong RRQR algorithm, including a randomized sketching-based variant, and evaluated its numerical stability on challenging matrices.
+`Python` `Numerical Linear Algebra`
 
 ---
 
@@ -50,7 +58,10 @@ I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interes
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
 
+---
 
+### 🛠️ Technologies
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
 `Python` `PyTorch` `Hugging Face` `C++` `Git` `Docker`
 
@@ -61,8 +72,6 @@ Designed and evaluated a multimodal alignment framework between vision and langu
 ### [Enhancing QCE H-mode Regime Access Understanding in TCV Plasmas](lien-vers-le-repo)
 Trained LSTM/GRU models on time-series data from TCV tokamak experiments to classify plasma confinement modes, and applied conformal prediction to quantify model uncertainty.
 `Python` `Time Series` `Conformal Prediction` — [🔗 Demo](lien-si-existe)
-
-
 
 ### [Implementing Strong RRQR in Python](lien-vers-le-repo)
 Implemented the Strong RRQR algorithm, including a randomized sketching-based variant, and evaluated its numerical stability on challenging matrices.
