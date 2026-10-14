@@ -29,12 +29,14 @@ Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improvi
 *Code coming soon.*
 
 Trained LSTM/GRU models on time-series data from TCV tokamak experiments to classify plasma confinement modes, and applied conformal prediction to quantify model uncertainty.
+
 `Python` `Time Series` `Conformal Prediction`
 
 ### Implementing Strong RRQR in Python
 *Code coming soon.*
 
 Implemented the Strong RRQR algorithm, including a randomized sketching-based variant, and evaluated its numerical stability on challenging matrices.
+
 `Python` `Numerical Linear Algebra`
 
 ---
