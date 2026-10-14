@@ -1,24 +1,24 @@
 
-# Hi, I'm Corentin! 👋
+## Hi, I'm Corentin! 👋
 
 MSc graduate in Computational Science and Engineering from EPFL, interested in Machine Learning, Deep Learning, and AI research, particularly in LLMs and multimodal learning.
 
-## 🎓 Education
+### 🎓 Education
 
-- **MSc in Computational Science and Engineering** — EPFL
-- **BSc in Physics** — EPFL
+- 📚 **MSc in Computational Science and Engineering** @ EPFL
+- 👩‍🎓 **BSc in Physics** @ EPFL
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### Vision-Language Alignment for Remote Sensing VQA
+#### Vision-Language Alignment for Remote Sensing VQA
 
 Master's thesis project exploring the alignment of remote sensing image embeddings with natural language representations using flow matching, with the goal of improving visual question answering.
 
 `Python` `PyTorch` `LLMs` `Multimodal Learning` `Flow Matching`
 
-### [Improving Explainability of Sexism Detection in Social Media Text](https://github.com/viols-code/DeepLearningProject)
+#### [Improving Explainability of Sexism Detection in Social Media Text](https://github.com/viols-code/DeepLearningProject)
 
 Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improving classification performance and token-level explainability metrics over the baseline.
 
@@ -26,13 +26,12 @@ Fine-tuned BERT-HateXplain on an automatically annotated sexism dataset, improvi
 
 ---
 
-## 🛠️ Technologies
-
-`Python` `PyTorch` `Hugging Face` `C++` `Git` `Docker`
+### 🛠️ Technologies
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
 ---
 
-## 📬 Get in Touch
+### 📬 Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or reach me at **corentin.genton@ik.me**.
 
@@ -51,6 +50,9 @@ I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interes
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
 
+
+
+`Python` `PyTorch` `Hugging Face` `C++` `Git` `Docker`
 
 ### [Bridging Remote Sensing with Natural Language via Flow Matching](lien-vers-le-repo)
 Designed and evaluated a multimodal alignment framework between vision and language embeddings using Flow Matching, with extensive experiments across LLM sizes, pooling strategies and prompting protocols for Vision-Language QA.
