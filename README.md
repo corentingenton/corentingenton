@@ -8,6 +8,10 @@ MSc graduate in Computational Science and Engineering from EPFL, interested in M
 - 📚 **MSc in Computational Science and Engineering** @ EPFL
 - 👩‍🎓 **BSc in Physics** @ EPFL
 
+### 📬 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or reach me at **corentin.genton@ik.me**
+
 ---
 
 ### 🚀 Projects
@@ -41,10 +45,6 @@ Implemented the Strong RRQR algorithm, including a randomized sketching-based va
 
 ---
 
-### 📬 Get in Touch
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or reach me at **corentin.genton@ik.me**.
-
 <!---
 I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interested in deep learning, LLMs, multimodal learning and scientific computing / HPC.
 
@@ -66,18 +66,6 @@ I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interes
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
 `Python` `PyTorch` `Hugging Face` `C++` `Git` `Docker`
-
-### [Bridging Remote Sensing with Natural Language via Flow Matching](lien-vers-le-repo)
-Designed and evaluated a multimodal alignment framework between vision and language embeddings using Flow Matching, with extensive experiments across LLM sizes, pooling strategies and prompting protocols for Vision-Language QA.
-`Python` `PyTorch` `Multimodal` `Flow Matching` — [🔗 Demo](lien-si-existe)
-
-### [Enhancing QCE H-mode Regime Access Understanding in TCV Plasmas](lien-vers-le-repo)
-Trained LSTM/GRU models on time-series data from TCV tokamak experiments to classify plasma confinement modes, and applied conformal prediction to quantify model uncertainty.
-`Python` `Time Series` `Conformal Prediction` — [🔗 Demo](lien-si-existe)
-
-### [Implementing Strong RRQR in Python](lien-vers-le-repo)
-Implemented the Strong RRQR algorithm, including a randomized sketching-based variant, and evaluated its numerical stability on challenging matrices.
-`Python` `Numerical Linear Algebra` — [🔗 Demo](lien-si-existe)
 
 ## 🏆 Achievements
 - [placeholder]
