@@ -44,15 +44,15 @@ Implemented the Strong RRQR algorithm, including a randomized sketching-based va
 `Python` `Numerical Linear Algebra`
 
 #### More Projects
-[Investigation of the operational parameters for QCE H-mode regime access in TCV plasmas with supervised learning](https://github.com/CS-433/ml-project-2-ctc)
-
-*Description coming soon.*
-
 [A Movie Recommendation System](https://github.com/epfl-ada/ada-2024-project-skibidata)
 
 *Description coming soon.*
 
 [Mountain Car Problem - Reinforcement Learning](https://github.com/corentingenton/mountain-car-reinforcement-learning)
+
+*Code coming soon.*
+
+Investigation of the operational parameters for QCE H-mode regime access in TCV plasmas with supervised learning
 
 *Code coming soon.*
 
