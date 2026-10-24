@@ -8,14 +8,7 @@ MSc graduate in Computational Science and Engineering from EPFL, interested in M
 - 📚 **MSc in Computational Science and Engineering** @ EPFL
 - 👩‍🎓 **BSc in Physics** @ EPFL
 
-
 ## Technical Skills
-
-**Programming & Scientific Computing**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **Programming & Scientific Computing**
 
@@ -43,7 +36,6 @@ MSc graduate in Computational Science and Engineering from EPFL, interested in M
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square&logo=dataiku&logoColor=white)
-
 
 ### 📬 Get in Touch
 
