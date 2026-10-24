@@ -8,7 +8,7 @@ MSc graduate in Computational Science and Engineering from EPFL, interested in M
 - 📚 **MSc in Computational Science and Engineering** @ EPFL
 - 👩‍🎓 **BSc in Physics** @ EPFL
 
-## Technical Skills
+### Technical Skills
 
 **Programming & Scientific Computing**
 
