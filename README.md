@@ -91,27 +91,11 @@ Investigation of the operational parameters for QCE H-mode regime access in TCV 
 I'm a graduate in Computational Science and Engineering (MSc) from EPFL, interested in deep learning, LLMs, multimodal learning and scientific computing / HPC.
 
 ## 🚀 About Me
-- 🎓 MSc Computational Science and Engineering @ EPFL (completed July 2026)
-- 🔭 Currently open to opportunities in [ex: ML/AI engineering, research, data science...]
-- 🌱 Interested in [ex: multimodal models, generative AI, ...]
-- 💬 Ask me about deep learning, LLMs, or scientific computing
-- 📫 Reach me: corentin.genton@ik.me | [LinkedIn](https://www.linkedin.com/in/corentin-genton/)
-- 📄 [My CV](lien-vers-ton-cv)
+
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
 
 
----
 
-### 🛠️ Technologies
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,matlab,latex,git,docker,linux)](https://skillicons.dev)
-
-`Python` `PyTorch` `Hugging Face` `C++` `Git` `Docker`
-
-## 🏆 Achievements
-- [placeholder]
-
-## 📬 Get in Touch
-Open to opportunities in [placeholder — ex: ML engineering, applied research...]. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/corentin-genton/) or email.
 -->
